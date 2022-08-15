@@ -1,3 +1,6 @@
+![Image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![img](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 # pomegranate_disease_prediction
 this repository contain the model of nn that predict the disease of pomegranate with the help of img data also it contain the model of leaf that predict the leaf disease and give the corresponding solutions of disease 
 
